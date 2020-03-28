@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://dsomething.cloudfront.net/static/css/main.89609b38.chunk.css",
-    "main.js": "https://dsomething.cloudfront.net/static/js/main.be01bfce.chunk.js",
-    "main.js.map": "https://dsomething.cloudfront.net/static/js/main.be01bfce.chunk.js.map",
-    "runtime-main.js": "https://dsomething.cloudfront.net/static/js/runtime-main.f751e214.js",
-    "runtime-main.js.map": "https://dsomething.cloudfront.net/static/js/runtime-main.f751e214.js.map",
-    "static/js/2.763eac06.chunk.js": "https://dsomething.cloudfront.net/static/js/2.763eac06.chunk.js",
-    "static/js/2.763eac06.chunk.js.map": "https://dsomething.cloudfront.net/static/js/2.763eac06.chunk.js.map",
-    "index.html": "https://dsomething.cloudfront.net/index.html",
-    "precache-manifest.2a2c1209103ad381349854dfb38c2bba.js": "https://dsomething.cloudfront.net/precache-manifest.2a2c1209103ad381349854dfb38c2bba.js",
-    "service-worker.js": "https://dsomething.cloudfront.net/service-worker.js",
-    "static/css/main.89609b38.chunk.css.map": "https://dsomething.cloudfront.net/static/css/main.89609b38.chunk.css.map",
-    "static/js/2.763eac06.chunk.js.LICENSE.txt": "https://dsomething.cloudfront.net/static/js/2.763eac06.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "https://dsomething.cloudfront.net/static/media/logo.5d5d9eef.svg"
+    "main.css": "https://georgetin.github.io/static/css/main.89609b38.chunk.css",
+    "main.js": "https://georgetin.github.io/static/js/main.6606331d.chunk.js",
+    "main.js.map": "https://georgetin.github.io/static/js/main.6606331d.chunk.js.map",
+    "runtime-main.js": "https://georgetin.github.io/static/js/runtime-main.4efe5ec0.js",
+    "runtime-main.js.map": "https://georgetin.github.io/static/js/runtime-main.4efe5ec0.js.map",
+    "static/js/2.763eac06.chunk.js": "https://georgetin.github.io/static/js/2.763eac06.chunk.js",
+    "static/js/2.763eac06.chunk.js.map": "https://georgetin.github.io/static/js/2.763eac06.chunk.js.map",
+    "index.html": "https://georgetin.github.io/index.html",
+    "precache-manifest.769855d2b09d65ab00e6deb5c45d86f0.js": "https://georgetin.github.io/precache-manifest.769855d2b09d65ab00e6deb5c45d86f0.js",
+    "service-worker.js": "https://georgetin.github.io/service-worker.js",
+    "static/css/main.89609b38.chunk.css.map": "https://georgetin.github.io/static/css/main.89609b38.chunk.css.map",
+    "static/js/2.763eac06.chunk.js.LICENSE.txt": "https://georgetin.github.io/static/js/2.763eac06.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "https://georgetin.github.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f751e214.js",
+    "static/js/runtime-main.4efe5ec0.js",
     "static/js/2.763eac06.chunk.js",
     "static/css/main.89609b38.chunk.css",
-    "static/js/main.be01bfce.chunk.js"
+    "static/js/main.6606331d.chunk.js"
   ]
 }
