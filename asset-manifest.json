@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://georgetin.github.io/static/css/main.89609b38.chunk.css",
-    "main.js": "https://georgetin.github.io/static/js/main.6606331d.chunk.js",
-    "main.js.map": "https://georgetin.github.io/static/js/main.6606331d.chunk.js.map",
-    "runtime-main.js": "https://georgetin.github.io/static/js/runtime-main.4efe5ec0.js",
-    "runtime-main.js.map": "https://georgetin.github.io/static/js/runtime-main.4efe5ec0.js.map",
-    "static/js/2.763eac06.chunk.js": "https://georgetin.github.io/static/js/2.763eac06.chunk.js",
-    "static/js/2.763eac06.chunk.js.map": "https://georgetin.github.io/static/js/2.763eac06.chunk.js.map",
-    "index.html": "https://georgetin.github.io/index.html",
-    "precache-manifest.769855d2b09d65ab00e6deb5c45d86f0.js": "https://georgetin.github.io/precache-manifest.769855d2b09d65ab00e6deb5c45d86f0.js",
-    "service-worker.js": "https://georgetin.github.io/service-worker.js",
-    "static/css/main.89609b38.chunk.css.map": "https://georgetin.github.io/static/css/main.89609b38.chunk.css.map",
-    "static/js/2.763eac06.chunk.js.LICENSE.txt": "https://georgetin.github.io/static/js/2.763eac06.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "https://georgetin.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.89609b38.chunk.css",
+    "main.js": "/static/js/main.62cd6a2f.chunk.js",
+    "main.js.map": "/static/js/main.62cd6a2f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.538547a1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.538547a1.js.map",
+    "static/js/2.763eac06.chunk.js": "/static/js/2.763eac06.chunk.js",
+    "static/js/2.763eac06.chunk.js.map": "/static/js/2.763eac06.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.0afd4d866778d10c182d1bcd50237fe4.js": "/precache-manifest.0afd4d866778d10c182d1bcd50237fe4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.89609b38.chunk.css.map": "/static/css/main.89609b38.chunk.css.map",
+    "static/js/2.763eac06.chunk.js.LICENSE.txt": "/static/js/2.763eac06.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4efe5ec0.js",
+    "static/js/runtime-main.538547a1.js",
     "static/js/2.763eac06.chunk.js",
     "static/css/main.89609b38.chunk.css",
-    "static/js/main.6606331d.chunk.js"
+    "static/js/main.62cd6a2f.chunk.js"
   ]
 }
