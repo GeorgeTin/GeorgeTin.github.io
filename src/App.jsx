@@ -13,7 +13,7 @@ function App() {
   return (
     <div>
       <Menu></Menu>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
           <Switch>
               <Route path="/" exact  component={Home} />
               <Route path="/blog" exact component={Blog} /> 
