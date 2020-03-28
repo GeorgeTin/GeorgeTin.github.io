@@ -15,7 +15,7 @@ class Article extends Component {
     }
 
     componentWillMount() {
-        this.articleIdFromPath(window.location.pathname)
+        this.articleIdFromPath(window.location.hash)
         this.otherComponent = React.lazy(() => import('../articles/article-' + this.articleId + '/' + this.articleId))
     }
 

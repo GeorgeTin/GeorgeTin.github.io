@@ -11,8 +11,8 @@ class Menu extends Component {
                 <Navbar.Toggle aria-controls="basic-navbar-nav"/>
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="ml-auto" style={{paddingRight: '5vw'}}>
-                        <Nav.Link href="/">Acasa</Nav.Link>
-                        <Nav.Link href="/blog">Blog</Nav.Link>
+                        <Nav.Link href="/#/">Acasa</Nav.Link>
+                        <Nav.Link href="/#/blog">Blog</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>

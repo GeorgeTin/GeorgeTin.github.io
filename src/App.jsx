@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import { HashRouter, Switch, Route } from 'react-router-dom';
 // import logo from './logo.svg';
 // import './App.css';
 
@@ -10,17 +10,20 @@ import Menu from './components/Menu';
 import NotFound from './components/NotFound';
 
 function App() {
+  console.log("test")
+  console.log(process.env.PUBLIC_URL)
   return (
     <div>
       <Menu></Menu>
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
+      {/* <BrowserRouter basename={process.env.PUBLIC_URL}> */}
+        <HashRouter basename='/'>
           <Switch>
               <Route path="/" exact  component={Home} />
               <Route path="/blog" exact component={Blog} /> 
-              <Route path="/article/" component={Article} />
+              <Route path="/article" component={Article} />
               <Route component={NotFound} />
           </Switch>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
