@@ -1,6 +1,6 @@
 {
   "homepage": "https://GeorgeTin.github.io/",
-  "name": "yellow_pages",
+  "name": "tabs_before_spaces",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,7 +9,9 @@
     "@testing-library/user-event": "^7.2.1",
     "gh-pages": "^2.2.0",
     "react": "^16.13.0",
+    "react-bootstrap": "^1.0.0-beta.16",
     "react-dom": "^16.13.0",
+    "react-router-dom": "5.1.2",
     "react-scripts": "3.4.0"
   },
   "scripts": {
